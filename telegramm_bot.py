@@ -1,4 +1,5 @@
 # 5432868362:AAFvpGlfGjGzGwg_YIqwPk982C9t9ZvfLzw
+# Телеграмм бот рассказывающий анектоды с сайта 'https://www.anekdot.ru/'
 import telebot
 import requests, random
 from bs4 import BeautifulSoup as b
